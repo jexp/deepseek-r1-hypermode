@@ -7,4 +7,12 @@
       "auth": "bearer-token"
     }
   }
+  ,
+  "models": {
+    "deepseek-reasoner": {
+      "sourceModel": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+      "provider": "hugging-face",
+      "connection": "hypermode"
+    }
+  }
 }
