@@ -4,9 +4,9 @@ Deploy a GraphQL API to use the hosted DeepSeek R1 on HyperMode.
 
 - [x] Make it work locally
 - [x] Deploy to HyperMode
-- [] Integrate with Neo4j / GraphRAG as a tool
-- [] Add the interactive deepseek model
-- [] Add a small UI with [needle starterkit chatbot]([url](https://neo4j.com/labs/neo4j-needle-starterkit/2.0/Components/Chatbot/))
+- [ ] Integrate with Neo4j / GraphRAG as a tool
+- [ ] Add the interactive deepseek model
+- [ ] Add a small UI with [needle starterkit chatbot]([url](https://neo4j.com/labs/neo4j-needle-starterkit/2.0/Components/Chatbot/))
 
 I followed the instructions here: https://docs.hypermode.com/modus/deepseek-model
 You can also watch the video: https://www.youtube.com/watch?v=ICRwZ8ywR9Q
